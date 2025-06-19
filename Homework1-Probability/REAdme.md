@@ -40,13 +40,14 @@ This Python program identifies whether a shredded text letter is written in **En
 
 ''' bash
 python3 hw2.py samples/letter1.txt 0.6 0.4
-````
+
+
 
 * `samples/letter1.txt`: input shredded letter
 * `0.6`: prior probability of English
 * `0.4`: prior probability of Spanish
 
----
+
 
 ## ✅ Output Format
 
@@ -59,7 +60,6 @@ The program prints 4 sections as required:
 
 Example:
 
-```
 Q1
 A 1
 B 0
@@ -73,7 +73,7 @@ Q3
 -81.2345
 Q4
 0.8461
-```
+
 
 ---
 
