@@ -1,4 +1,4 @@
-##CS540 – Introduction to Artificial Intelligence
+## CS540 – Introduction to Artificial Intelligence
 This repository contains coursework and projects from CS540 at the University of Wisconsin–Madison, covering foundational concepts and techniques in artificial intelligence
 
 ## 🧠 Course Overview
