@@ -1,13 +1,13 @@
 Sure! Here's the complete `README.md` file with your name included, and no extra content:
 
----
 
-```markdown
+
+
 # Probabilistic Language Identification
 
 This Python program identifies whether a shredded text letter is written in **English** or **Spanish** using **Bayesian inference** and **multinomial character probabilities**.
 
----
+
 
 ## 📂 Project Structure
 
@@ -21,7 +21,7 @@ This Python program identifies whether a shredded text letter is written in **En
 
 ````
 
----
+
 
 ## 🚀 How It Works
 
@@ -35,11 +35,10 @@ This Python program identifies whether a shredded text letter is written in **En
 3. **Multinomial Probability**:
    - Uses a log-transformed multinomial model to compute log-likelihoods and posterior probabilities.
 
----
 
 ## 🧪 Example Usage
 
-```bash
+''' bash
 python3 hw2.py samples/letter1.txt 0.6 0.4
 ````
 
